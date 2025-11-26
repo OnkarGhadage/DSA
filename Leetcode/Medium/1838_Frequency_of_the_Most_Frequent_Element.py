@@ -1,4 +1,3 @@
-from collections import Counter
 class Solution:
     def maxFrequency(self, nums: list[int], k: int) -> int:
         nums.sort()
@@ -12,7 +11,7 @@ class Solution:
                 window_sum -= nums[l]
                 l += 1
                 cost = nums[r] * (r-l+1) - window_sum
-            max_freq = max(max_freq, r-l+1)
+            max_freq = max(max_freq, (r-l+1))
         return max_freq
 
 s1 = Solution()
