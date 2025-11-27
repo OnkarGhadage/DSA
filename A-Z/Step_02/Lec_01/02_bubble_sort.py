@@ -9,10 +9,9 @@ class Solution:
                     swaped = True
             if not swaped:
                 break
-        return nums
 
 
 s1 = Solution()
-List = [9,5,8,1,6,7,11]
+List = [1,2,3,4,5]
 s1.bubble_sort(List)
 print(List)
