@@ -13,4 +13,6 @@ class Solution:
 
 
 s1 = Solution()
-print(s1.bubble_sort([9,5,8,1,6,7,11]))
+List = [9,5,8,1,6,7,11]
+s1.bubble_sort(List)
+print(List)
