@@ -4,3 +4,4 @@
 1. [Largest Element](../Problem/Easy/14_Largest_Element.py) - Find the Largest element in an array  
 2. [Second Largest Element](../Problem\Easy\15_Second_Largest_Element.py) - Find Second Smallest and Second Largest Element in an array   
 3. a. [Check if the Array is Sorted II](../Problem\Easy\16_Check_if_the_Array_is_Sorted_II.py) - Find the Largest element in an array  
+b. [Leetcode 1752](../../Leetcode/Easy/1752_Check_if_Array_Is_Sorted_and_Rotated.py) - 1752. Check if Array Is Sorted and Rotated
