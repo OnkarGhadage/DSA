@@ -1,6 +1,6 @@
 class Solution:
     def rotateArrayByOne(self, nums):
-        for i in range(len(arr)-1, 0, -1):
+        for i in range(len(nums)-1, 0, -1):
             nums[i], nums[i-1] = nums[i-1], nums[i]
 
 s1 =Solution()
