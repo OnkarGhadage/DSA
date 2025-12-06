@@ -31,3 +31,8 @@
 ### ⭐ 6. Left Rotate Array by K Places | 189. Rotate Array 
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/left-rotate-array) → [**Solution**](../Problem/Easy/19_Left_Rotate_Array_by_K_Places.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/rotate-array/description/) → [**Solution**](../../Leetcode/Medium/189_Rotate_Array.py)
+
+---
+
+### ⭐ 7. Move Zeros to End | 283. Move Zeroes 
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/move-zeros-to-end) → [**Solution**](../Problem/Easy/20_Move_Zeros_to_End.py)  
