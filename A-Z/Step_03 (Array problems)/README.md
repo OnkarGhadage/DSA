@@ -25,3 +25,9 @@
 ### ⭐ 5. Left Rotate Array by One | 189. Rotate Array 
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/left-rotate-array-by-one) → [**Solution**](../Problem/Easy/18_Left_Rotate_Array_by_One.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/rotate-array/description/) → [**Solution**](../../Leetcode/Medium/189_Rotate_Array.py)
+
+---
+
+### ⭐ 6. Left Rotate Array by K Places | 189. Rotate Array 
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/left-rotate-array) → [**Solution**](../Problem/Easy/19_Left_Rotate_Array_by_K_Places.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/rotate-array/description/) → [**Solution**](../../Leetcode/Medium/189_Rotate_Array.py)
