@@ -36,3 +36,4 @@
 
 ### ⭐ 7. Move Zeros to End | 283. Move Zeroes 
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/move-zeros-to-end) → [**Solution**](../Problem/Easy/20_Move_Zeros_to_End.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/move-zeroes/description/) → [**Solution**](../../Leetcode/Easy/283_Move_Zeroes.py)  
