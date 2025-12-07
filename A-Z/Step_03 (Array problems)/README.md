@@ -42,3 +42,8 @@
 
 ### ⭐ 8. Linear Search
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/linear-search) → [**Solution**](../Problem/Easy/21_Linear_Search.py)   
+
+---
+
+### ⭐ 9. Union of two sorted arrays 
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays) → [**Solution**](../Problem/Easy/22_Union_of_two_sorted_arrays.py)   
