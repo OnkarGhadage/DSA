@@ -52,3 +52,4 @@
 
 ### ⭐ 10. Find missing number | 268. Missing Number
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-missing-number) → [**Solution**](../Problem/Easy/23_Find_missing_number.py)   
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/missing-number/) → [**Solution**](../../Leetcode/Easy/268_Missing_Number.py)  
