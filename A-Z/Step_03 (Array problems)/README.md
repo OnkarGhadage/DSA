@@ -47,3 +47,8 @@
 
 ### ⭐ 9. Union of two sorted arrays 
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays) → [**Solution**](../Problem/Easy/22_Union_of_two_sorted_arrays.py)   
+
+---
+
+### ⭐ 10. Find missing number | 268. Missing Number
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-missing-number) → [**Solution**](../Problem/Easy/23_Find_missing_number.py)   
