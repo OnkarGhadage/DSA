@@ -62,5 +62,6 @@
 
 ---
 
-### ⭐ 12. Single Number - I
+### ⭐ 12. Single Number - I | 136. Single Number  
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/single-number---i) → [**Solution**](../Problem/Medium/01_Single_Number_-_I.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/single-number/) → [**Solution**](../../Leetcode/Easy/136_Single_Number.py)  
