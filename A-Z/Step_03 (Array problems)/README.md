@@ -59,3 +59,8 @@
 ### ⭐ 11. Maximum Consecutive Ones | 485. Max Consecutive Ones
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/maximum-consecutive-ones) → [**Solution**](..\Problem/Easy/24_Maximum_Consecutive_Ones.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/max-consecutive-ones/) → [**Solution**](../../Leetcode/Easy/485_Max_Consecutive_Ones.py)  
+
+---
+
+### ⭐ 12. Single Number - I
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/single-number---i) → [**Solution**](../Problem/Medium/01_Single_Number_-_I.py)  
