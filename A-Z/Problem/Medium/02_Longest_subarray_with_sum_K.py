@@ -1,20 +1,17 @@
 class Solution:
     def longestSubarray(self, nums, k):
-        prefix_sum = 0
-        hashmap = {}
-        max_len = 0
+        j = 0
+        win_sum = 0
+        longest = 0
 
-        for i in range(len(nums)):
-            prefix_sum += nums[i]
+        for i, num in enumerate(nums):
+            win_sum += num
 
-            if prefix_sum == k:
-                max_len = max(max_len, i + 1)
-
-            if (prefix_sum - k) in hashmap:
-                length = i - hashmap[prefix_sum - k]
-                max_len = max(max_len, length)
-
-            if prefix_sum not in hashmap:
-                hashmap[prefix_sum] = i
-
-        return max_len
+            while win_sum > k:
+                win_sum -= nums[j]
+                j -= 1
+            
+            if win_sum == k:
+                longest = max(longest, i-j+1)
+                
+        return longest

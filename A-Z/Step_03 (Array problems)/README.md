@@ -68,5 +68,5 @@
 
 ---
 
-### ⭐ 13. Longest subarray with sum K
-📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k) → [**Solution**](../Problem/Medium/02_Longest_subarray_with_sum_K.py)  
+### ⭐ 13. Longest subarray with sum K (positives)
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k) → [**Solution**](../Problem/Medium/02_Longest_subarray_with_sum_K.py)
