@@ -83,3 +83,8 @@
 ### ⭐ 1. Two Sum | 1. Two Sum
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/two-sum) → [**Solution**](../Problem/Easy/25_Two_Sum.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/two-sum/) → [**Solution**](../../Leetcode/Easy/1_Two_Sum.py)  
+
+---
+
+### ⭐ 2. Sort an array of 0's 1's and 2's
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's) → [**Solution**](../Problem/Medium/03_Sort_an_array_of_0's_1's_and_2's.py)  
