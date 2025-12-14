@@ -79,6 +79,7 @@
 
 ---
 
-### ⭐ 14. Two Sum | 1. Two Sum
+## Medium
+### ⭐ 1. Two Sum | 1. Two Sum
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/two-sum) → [**Solution**](../Problem/Easy/25_Two_Sum.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/two-sum/) → [**Solution**](../../Leetcode/Easy/1_Two_Sum.py)  
