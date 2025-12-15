@@ -89,3 +89,8 @@
 ### ⭐ 2. Sort an array of 0's 1's and 2's | 75. Sort Colors
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's) → [**Solution**](../Problem/Medium/03_Sort_an_array_of_0's_1's_and_2's.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/sort-colors/) → [**Solution**](../../Leetcode/Medium/75_Sort_Colors.py)  
+
+---
+
+### ⭐ 3. Majority Element-I
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/majority-element-i) → [**Solution**](../Problem/Easy/26_Majority_Element-I.py)  
