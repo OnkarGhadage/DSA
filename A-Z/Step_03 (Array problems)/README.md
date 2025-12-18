@@ -95,3 +95,8 @@
 ### ⭐ 3. Majority Element-I | 169. Majority Element
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/majority-element-i) → [**Solution**](../Problem/Easy/26_Majority_Element-I.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/majority-element/) → [**Solution**](../../Leetcode/Easy/169_Majority_Element.py)  
+
+---
+
+### ⭐ 4. Kadane's Algorithm
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm) → [**Solution**](../Problem/Medium/04_Kadane's_Algorithm.py)  
