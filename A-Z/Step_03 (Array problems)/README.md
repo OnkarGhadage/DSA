@@ -106,3 +106,8 @@
 
 ### ⭐ 5. Kadane's Algorithm
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm) → [**Solution**](../Problem/Medium/04_Kadane's_Algorithm.py)  
+
+---
+
+### ⭐ 6. Best time to buy and sell stock
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock) → [**Solution**](../Problem/Medium/05_Best_time_to_buy_and_sell_stock.py)  
