@@ -101,3 +101,8 @@
 ### ⭐ 4. Kadane's Algorithm | 53. Maximum Subarray
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm) → [**Solution**](../Problem/Medium/04_Kadane's_Algorithm.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/maximum-subarray/) → [**Solution**](../../Leetcode/Medium/53_Maximum_Subarray.py)  
+
+---
+
+### ⭐ 5. Kadane's Algorithm
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm) → [**Solution**](../Problem/Medium/04_Kadane's_Algorithm.py)  
