@@ -109,5 +109,6 @@
 
 ---
 
-### ⭐ 6. Best time to buy and sell stock
+### ⭐ 6. Best time to buy and sell stock | 121. Best Time to Buy and Sell Stock
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock) → [**Solution**](../Problem/Medium/05_Best_time_to_buy_and_sell_stock.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) → [**Solution**](../../Leetcode/Easy/121_Best_Time_to_Buy_and_Sell_Stock.py)  
