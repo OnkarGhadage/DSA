@@ -115,5 +115,6 @@
 
 ---
 
-### ⭐ 7. Rearrange array elements by sign
+### ⭐ 7. Rearrange array elements by sign | 2149. Rearrange Array Elements by Sign
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/rearrange-array-elements-by-sign) → [**Solution**](../Problem/Medium/06_Rearrange_array_elements_by_sign.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/rearrange-array-elements-by-sign/) → [**Solution**](../../Leetcode/Medium/2149_Rearrange_Array_Elements_by_Sign.py)  
