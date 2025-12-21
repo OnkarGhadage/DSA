@@ -121,5 +121,6 @@
 
 ---
 
-### ⭐ 8. Next Permutation
+### ⭐ 8. Next Permutation | 31. Next Permutation  
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/next-permutation) → [**Solution**](../Problem/Medium/07_Next_Permutation.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/next-permutation/) → [**Solution**](../../Leetcode/Medium/31_Next_Permutation.py)  
