@@ -132,5 +132,6 @@
 
 ---
 
-### ⭐ 10. Longest Consecutive Sequence in an Array
+### ⭐ 10. Longest Consecutive Sequence in an Array | 128. Longest Consecutive Sequence  
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/longest-consecutive-sequence-in-an-array) → [**Solution**](../Problem/Medium/09_Longest_Consecutive_Sequence_in_an_Array.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/longest-consecutive-sequence/) → [**Solution**](../../Leetcode/Medium/128_Longest_Consecutive_Sequence.py)  
