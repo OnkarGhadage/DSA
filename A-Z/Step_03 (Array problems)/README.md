@@ -128,4 +128,4 @@
 ---
 
 ### ⭐ 9. Leaders in an Array  
-📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/leaders-in-an-array) → [**Solution**]()  
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/leaders-in-an-array) → [**Solution**](../Problem/Medium/08_Leaders_in_an_Array.py)  
