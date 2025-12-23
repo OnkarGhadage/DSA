@@ -129,3 +129,8 @@
 
 ### ⭐ 9. Leaders in an Array  
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/leaders-in-an-array) → [**Solution**](../Problem/Medium/08_Leaders_in_an_Array.py)  
+
+---
+
+### ⭐ 10. Longest Consecutive Sequence in an Array
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/longest-consecutive-sequence-in-an-array) → [**Solution**](../Problem/Medium/09_Longest_Consecutive_Sequence_in_an_Array.py)  
