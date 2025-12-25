@@ -141,3 +141,8 @@
 ### ⭐ 11. Set Matrix Zeroes | 73. Set Matrix Zeroes
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/set-matrix-zeroes) → [**Solution**](../Problem/Medium/10_Set_Matrix_Zeroes.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/set-matrix-zeroes/) → [**Solution**](../../Leetcode/Medium/73_Set_Matrix_Zeroes.py)  
+
+---
+
+### ⭐ 12. Rotate matrix by 90 degrees
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/rotate-matrix-by-90-degrees) → [**Solution**](../Problem/Medium/11_Rotate_matrix_by_90_degrees.py)  
