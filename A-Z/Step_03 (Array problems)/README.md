@@ -150,5 +150,6 @@
 
 ---
 
-### ⭐ 13. Print the matrix in spiral manner
+### ⭐ 13. Print the matrix in spiral manner | 54. Spiral Matrix
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/print-the-matrix-in-spiral-manner) → [**Solution**](../Problem/Medium/12_Print_the_matrix_in_spiral_manner.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/spiral-matrix/) → [**Solution**](../../Leetcode/Medium/54_Spiral_Matrix.py)  
