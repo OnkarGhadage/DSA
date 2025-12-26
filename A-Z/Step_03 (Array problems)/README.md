@@ -147,3 +147,8 @@
 ### ⭐ 12. Rotate matrix by 90 degrees | 48. Rotate Image
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/rotate-matrix-by-90-degrees) → [**Solution**](../Problem/Medium/11_Rotate_matrix_by_90_degrees.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/rotate-image/) → [**Solution**](../../Leetcode/Medium/48_Rotate_Image.py)  
+
+---
+
+### ⭐ 13. Print the matrix in spiral manner
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/print-the-matrix-in-spiral-manner) → [**Solution**](../Problem/Medium/12_Print_the_matrix_in_spiral_manner.py)  
