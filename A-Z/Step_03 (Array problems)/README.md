@@ -156,5 +156,6 @@
 
 ---
 
-### ⭐ 14. Count subarrays with given sum
+### ⭐ 14. Count subarrays with given sum | 560. Subarray Sum Equals K  
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-sum) → [**Solution**](../Problem/Medium/13_Count_subarrays_with_given_sum.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/subarray-sum-equals-k/) → [**Solution**](../../Leetcode/Medium/560_Subarray_Sum_Equals_K.py)  
