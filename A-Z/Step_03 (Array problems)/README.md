@@ -165,3 +165,8 @@
 ## Hard
 ### ⭐ 1. ... | 118. Pascal's Triangle
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/pascals-triangle/) → [**Solution**](../../Leetcode/Easy/118_Pascal's_Triangle.py)  
+
+---
+
+### ⭐ 2. Majority Element-II
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/majority-element-ii) → [**Solution**](../Problem/Hard/01_Majority_Element-II.py)  
