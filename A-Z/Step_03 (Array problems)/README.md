@@ -171,3 +171,8 @@
 ### ⭐ 2. Majority Element-II | 229. Majority Element II
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/majority-element-ii) → [**Solution**](../Problem/Hard/01_Majority_Element-II.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/majority-element-ii/) → [**Solution**](../../Leetcode/Medium/229_Majority_Element_II.py)  
+
+---
+
+### ⭐ 3. 3 Sum
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/3-sum) → [**Solution**](../Problem/Medium/14_3_Sum.py)  
