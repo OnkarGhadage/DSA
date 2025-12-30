@@ -177,3 +177,8 @@
 ### ⭐ 3. 3 Sum | 15. 3Sum
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/3-sum) → [**Solution**](../Problem/Medium/14_3_Sum.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/3sum/) → [**Solution**](../../Leetcode/Medium/15_3Sum.py)  
+
+---
+
+### ⭐ 4. 4 Sum
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/4-sum) → [**Solution**](../Problem/Medium/15_4_Sum.py)  
