@@ -183,3 +183,8 @@
 ### ⭐ 4. 4 Sum | 18. 4Sum
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/4-sum) → [**Solution**](../Problem/Medium/15_4_Sum.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/4sum/) → [**Solution**](../../Leetcode/Medium/18_4Sum.py)  
+
+---
+
+### ⭐ 5. Largest Subarray with Sum 0
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/largest-subarray-with-sum-0) → [**Solution**](../Problem/Medium/16_Largest_Subarray_with_Sum_0.py)  
