@@ -188,3 +188,8 @@
 
 ### ⭐ 5. Largest Subarray with Sum 0
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/largest-subarray-with-sum-0) → [**Solution**](../Problem/Medium/16_Largest_Subarray_with_Sum_0.py)  
+
+---
+
+### ⭐ 6. Count subarrays with given xor K
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k) → [**Solution**](../Problem/Hard/02_Count_subarrays_with_given_xor_K.py)  
