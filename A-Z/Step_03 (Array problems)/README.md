@@ -193,3 +193,8 @@
 
 ### ⭐ 6. Count subarrays with given xor K
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k) → [**Solution**](../Problem/Hard/02_Count_subarrays_with_given_xor_K.py)  
+
+---
+
+### ⭐ 7. Merge Overlapping Subintervals
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/merge-overlapping-subintervals) → [**Solution**](../Problem/Hard/03_Merge_Overlapping_Subintervals.py)  
