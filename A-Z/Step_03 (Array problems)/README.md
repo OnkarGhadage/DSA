@@ -196,5 +196,6 @@
 
 ---
 
-### ⭐ 7. Merge Overlapping Subintervals
+### ⭐ 7. Merge Overlapping Subintervals | 56. Merge Intervals
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/merge-overlapping-subintervals) → [**Solution**](../Problem/Hard/03_Merge_Overlapping_Subintervals.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/merge-intervals/) → [**Solution**](../../Leetcode/Medium/56_Merge_Intervals.py)  
