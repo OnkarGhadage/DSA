@@ -199,3 +199,8 @@
 ### ⭐ 7. Merge Overlapping Subintervals | 56. Merge Intervals
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/merge-overlapping-subintervals) → [**Solution**](../Problem/Hard/03_Merge_Overlapping_Subintervals.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/merge-intervals/) → [**Solution**](../../Leetcode/Medium/56_Merge_Intervals.py)  
+
+---
+
+### ⭐ 8. Merge two sorted arrays without extra space
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/merge-two-sorted-arrays-without-extra-space) → [**Solution**](../Problem/Medium/17_Merge_two_sorted_arrays_without_extra_space.py)  
