@@ -205,3 +205,8 @@
 ### ⭐ 8. Merge two sorted arrays without extra space | 88. Merge Sorted Array
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/merge-two-sorted-arrays-without-extra-space) → [**Solution**](../Problem/Medium/17_Merge_two_sorted_arrays_without_extra_space.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/merge-sorted-array/) → [**Solution**](../../Leetcode/Easy/88_Merge_Sorted_Array.py)  
+
+---
+
+### ⭐ 9. Find the repeating and missing number
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number) → [**Solution**](../Problem/Hard/04_Find_the_repeating_and_missing_number.py)  
