@@ -210,3 +210,8 @@
 
 ### ⭐ 9. Find the repeating and missing number
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number) → [**Solution**](../Problem/Hard/04_Find_the_repeating_and_missing_number.py)  
+
+---
+
+### ⭐ 10. Count Inversions
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/count-inversions) → [**Solution**](../Problem/Hard/05_Count_Inversions.py)  
