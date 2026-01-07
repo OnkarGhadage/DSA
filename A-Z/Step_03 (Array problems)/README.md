@@ -215,3 +215,8 @@
 
 ### ⭐ 10. Count Inversions
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/count-inversions) → [**Solution**](../Problem/Hard/05_Count_Inversions.py)  
+
+---
+
+### ⭐ 11. Reverse Pairs
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/reverse-pairs) → [**Solution**](../Problem/Hard/06_Reverse_Pairs.py)  
