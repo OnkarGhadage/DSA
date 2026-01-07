@@ -218,5 +218,6 @@
 
 ---
 
-### ⭐ 11. Reverse Pairs
+### ⭐ 11. Reverse Pairs | 493. Reverse Pairs
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/reverse-pairs) → [**Solution**](../Problem/Hard/06_Reverse_Pairs.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/reverse-pairs/) → [**Solution**](../../Leetcode/Hard/493_Reverse_Pairs.py)  
