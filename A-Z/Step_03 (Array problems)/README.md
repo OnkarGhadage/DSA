@@ -221,3 +221,8 @@
 ### ⭐ 11. Reverse Pairs | 493. Reverse Pairs
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/reverse-pairs) → [**Solution**](../Problem/Hard/06_Reverse_Pairs.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/reverse-pairs/) → [**Solution**](../../Leetcode/Hard/493_Reverse_Pairs.py)  
+
+---
+
+### ⭐ 12. Maximum Product Subarray in an Array
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/maximum-product-subarray-in-an-array) → [**Solution**](../Problem/Hard/07_Maximum_Product_Subarray_in_an_Array.py)  
