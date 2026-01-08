@@ -224,5 +224,6 @@
 
 ---
 
-### ⭐ 12. Maximum Product Subarray in an Array
+### ⭐ 12. Maximum Product Subarray in an Array | 152. Maximum Product Subarray
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/maximum-product-subarray-in-an-array) → [**Solution**](../Problem/Hard/07_Maximum_Product_Subarray_in_an_Array.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/maximum-product-subarray/) → [**Solution**](../../Leetcode/Medium/152_Maximum_Product_Subarray.py)  
