@@ -10,3 +10,8 @@
 
 ### ⭐ 2. Lower Bound
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/lower-bound-) → [**Solution**](../Problem/Easy/28_Lower_Bound.py)  
+
+---
+
+### ⭐ 3. Upper Bound
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/upper-bound) → [**Solution**](../Problem/Easy/29_Upper_Bound.py)  
