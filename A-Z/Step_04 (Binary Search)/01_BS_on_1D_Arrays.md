@@ -18,5 +18,6 @@
 
 ---
 
-### ⭐ 4. Search insert position
+### ⭐ 4. Search insert position | 35. Search Insert Position
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/search-insert-position) → [**Solution**](../Problem/Easy/30_Search_insert_position.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/search-insert-position/) → [**Solution**](../../Leetcode/Easy/35_Search_Insert_Position.py)  
