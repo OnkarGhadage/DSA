@@ -26,3 +26,8 @@
 
 ### ⭐ 5. Floor and Ceil in Sorted Array
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-sorted-array) → [**Solution**](../Problem/Easy/31_Floor_and_Ceil_in_Sorted_Array.py)  
+
+---
+
+### ⭐ 6. First and last occurrence
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/first-and-last-occurrence) → [**Solution**](../Problem/Easy/32_First_and_last_occurrence.py)  
