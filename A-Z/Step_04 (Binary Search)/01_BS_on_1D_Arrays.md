@@ -29,5 +29,6 @@
 
 ---
 
-### ⭐ 6. First and last occurrence
+### ⭐ 6. First and last occurrence | 34. Find First and Last Position of Element in Sorted Array
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/first-and-last-occurrence) → [**Solution**](../Problem/Easy/32_First_and_last_occurrence.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) → [**Solution**](../../Leetcode/Medium/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)  
