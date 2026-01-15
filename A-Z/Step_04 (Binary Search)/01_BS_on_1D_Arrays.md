@@ -37,3 +37,8 @@
 
 ### ⭐ 7. Count Occurrences in a Sorted Array
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/count-occurrences-in-a-sorted-array) → [**Solution**](../Problem/Easy/33_Count_Occurrences_in_a_Sorted_Array.py)  
+
+---
+
+### ⭐ 8. Search in rotated sorted array-I
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-i) → [**Solution**](../Problem/Medium/18_Search_in_rotated_sorted_array_I.py)  
