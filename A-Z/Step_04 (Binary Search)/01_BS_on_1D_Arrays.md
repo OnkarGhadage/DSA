@@ -43,3 +43,8 @@
 ### ⭐ 8. Search in rotated sorted array-I | 33. Search in Rotated Sorted Array
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-i) → [**Solution**](../Problem/Medium/18_Search_in_rotated_sorted_array_I.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/search-in-rotated-sorted-array/) → [**Solution**](../../Leetcode/Medium/33_Search_in_Rotated_Sorted_Array.py)  
+
+---
+
+### ⭐ 9. Search in rotated sorted array-II
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-2) → [**Solution**](../Problem/Medium/19_Search_in_rotated_sorted_array_II.py)  
