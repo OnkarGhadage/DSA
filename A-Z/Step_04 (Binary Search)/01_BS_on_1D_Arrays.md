@@ -49,3 +49,8 @@
 ### ⭐ 9. Search in rotated sorted array-II | 81. Search in Rotated Sorted Array II
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-2) → [**Solution**](../Problem/Medium/19_Search_in_rotated_sorted_array_II.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) → [**Solution**](../../Leetcode/Medium/81_Search_in_Rotated_Sorted_Array_II.py)  
+
+---
+
+### ⭐ 10. Find minimum in Rotated Sorted Array
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-minimum-in-rotated-sorted-array) → [**Solution**](../Problem/Easy/34_Find_minimum_in_Rotated_Sorted_Array.py)  
