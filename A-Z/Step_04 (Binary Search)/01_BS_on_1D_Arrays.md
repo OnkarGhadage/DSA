@@ -52,5 +52,6 @@
 
 ---
 
-### ⭐ 10. Find minimum in Rotated Sorted Array
+### ⭐ 10. Find minimum in Rotated Sorted Array | 153. Find Minimum in Rotated Sorted Array
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-minimum-in-rotated-sorted-array) → [**Solution**](../Problem/Easy/34_Find_minimum_in_Rotated_Sorted_Array.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) → [**Solution**](../../Leetcode/Medium/153_Find_Minimum_in_Rotated_Sorted_Array.py)  
