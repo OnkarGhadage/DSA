@@ -60,3 +60,8 @@
 
 ### ⭐ 11. Find out how many times the array is rotated
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated) → [**Solution**](../Problem/Easy/35_Find_out_how_many_times_the_array_is_rotated.py)  
+
+---
+
+### ⭐ 12. Single element in sorted array
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/single-element-in-sorted-array) → [**Solution**](../Problem/Medium/20_Single_element_in_sorted_array.py)  
