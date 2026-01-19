@@ -1,25 +1,41 @@
 class Solution:
-    def quickSort(self, arr, low, high):
-        #code here 
-        if low < high:
-            part_idx = self.partition(arr, low, high)
-            self.quickSort(arr, low, part_idx-1)
-            self.quickSort(arr, part_idx+1, high)
-
-    def partition(self, arr, low, high):
-        #code here
+    def lomuto_partition(self, arr, low, high):
         pivot = arr[high]
-        i = low-1
+        i = low - 1
+
         for j in range(low, high):
-            if arr[j] <= pivot:
+            if arr[j] < pivot:
                 i += 1
                 arr[i], arr[j] = arr[j], arr[i]
         i += 1
         arr[i], arr[high] = arr[high], arr[i]
+
         return i
 
-s1 = Solution()
-arr = [9,4,3,8,7,6,1,2,5]
-print(arr)
-s1.quickSort(arr, 0, len(arr)-1)
-print(arr)
+    def quicksort_lomuto(self, arr, low, high):
+        if low < high:
+            part_index = self.lomuto_partition(arr, low, high)
+            self.quicksort_lomuto(arr, low, part_index - 1)
+            self.quicksort_lomuto(arr, part_index + 1, high)
+
+    def hoare_partition(self, arr, low, high):
+        pivot = arr[low]
+        i, j = low-1, high + 1
+        while True:
+            i += 1
+            while i <= high and arr[i] < pivot:
+                i += 1
+            j -= 1
+            while j >= low and arr[j] > pivot:
+                j -= 1
+            
+            if i >= j:
+                return j
+
+            arr[i], arr[j] = arr[j], arr[i]
+
+    def quicksort_hoare(self, arr, low, high):
+        if low < high:
+            part_index = self.hoare_partition(arr, low, high)
+            self.quicksort_hoare(arr, low, part_index)
+            self.quicksort_hoare(arr, part_index + 1, high)
