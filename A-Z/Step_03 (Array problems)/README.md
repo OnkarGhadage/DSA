@@ -6,7 +6,7 @@
 ---
 
 ### ⭐ 2. Second Largest Element 
-📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/second-largest-element) → [**Solution**](../Problem\Easy\15_Second_Largest_Element.py)   
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/second-largest-element) → [**Solution**](../Problem/Easy/15_Second_Largest_Element.py)   
 
 ---
 
