@@ -66,3 +66,8 @@
 ### ⭐ 12. Single element in sorted array | 540. Single Element in a Sorted Array
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/single-element-in-sorted-array) → [**Solution**](../Problem/Medium/20_Single_element_in_sorted_array.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/single-element-in-a-sorted-array/) → [**Solution**](../../Leetcode/Medium/540_Single_Element_in_a_Sorted_Array.py)  
+
+---
+
+### ⭐ 13. Find peak element
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-peak-element) → [**Solution**](../Problem/Medium/21_Find_peak_element.py)  
