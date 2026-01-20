@@ -69,5 +69,6 @@
 
 ---
 
-### ⭐ 13. Find peak element
+### ⭐ 13. Find peak element | 162. Find Peak Element
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-peak-element) → [**Solution**](../Problem/Medium/21_Find_peak_element.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/find-peak-element/) → [**Solution**](../../Leetcode/Medium/162_Find_Peak_Element.py)  
