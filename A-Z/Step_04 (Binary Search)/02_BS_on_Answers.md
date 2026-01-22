@@ -4,3 +4,8 @@
 
 ### ⭐ 1. Find square root of a number
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-square-root-of-a-number) → [**Solution**](../Problem/Medium/22_Find_square_root_of_a_number.py)  
+
+---
+
+### ⭐ 2. Find Nth root of a number
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-nth-root-of-a-number) → [**Solution**](../Problem/Medium/23_Find_Nth_root_of_a_number.py)  
