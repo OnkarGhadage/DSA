@@ -12,5 +12,6 @@
 
 ---
 
-### ⭐ 3. Koko eating bananas
+### ⭐ 3. Koko eating bananas | 875. Koko Eating Bananas
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/koko-eating-bananas) → [**Solution**](../Problem/Medium/24_Koko_eating_bananas.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/koko-eating-bananas/) → [**Solution**](../../Leetcode/Medium/875_Koko_Eating_Bananas.py)  
