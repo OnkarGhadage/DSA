@@ -15,3 +15,8 @@
 ### ⭐ 3. Koko eating bananas | 875. Koko Eating Bananas
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/koko-eating-bananas) → [**Solution**](../Problem/Medium/24_Koko_eating_bananas.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/koko-eating-bananas/) → [**Solution**](../../Leetcode/Medium/875_Koko_Eating_Bananas.py)  
+
+---
+
+### ⭐ 4. Minimum days to make M bouquets
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/minimum-days-to-make-m-bouquets) → [**Solution**](../Problem/Medium/25_Minimum_days_to_make_M_bouquets.py)  
