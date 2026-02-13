@@ -21,3 +21,8 @@
 ### ⭐ 4. Minimum days to make M bouquets | 1482. Minimum Number of Days to Make m Bouquets
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/minimum-days-to-make-m-bouquets) → [**Solution**](../Problem/Medium/25_Minimum_days_to_make_M_bouquets.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) → [**Solution**](../../Leetcode/Medium/1482_Minimum_Number_of_Days_to_Make_m_Bouquets.py)  
+
+---
+
+### ⭐ 5. Find the smallest divisor
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-smallest-divisor) → [**Solution**](../Problem/Medium/26_Find_the_smallest_divisor.py)  
