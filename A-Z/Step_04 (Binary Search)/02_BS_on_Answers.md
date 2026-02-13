@@ -24,5 +24,6 @@
 
 ---
 
-### ⭐ 5. Find the smallest divisor
+### ⭐ 5. Find the smallest divisor | 1283. Find the Smallest Divisor Given a Threshold
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-smallest-divisor) → [**Solution**](../Problem/Medium/26_Find_the_smallest_divisor.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) → [**Solution**](../../Leetcode/Medium/1283_Find_the_Smallest_Divisor_Given_a_Threshold.py)  
