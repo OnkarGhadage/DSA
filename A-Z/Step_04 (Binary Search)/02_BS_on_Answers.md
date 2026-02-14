@@ -30,5 +30,6 @@
 
 ---
 
-### ⭐ 6. Capacity to Ship Packages Within D Days
+### ⭐ 6. Capacity to Ship Packages Within D Days | 1011. Capacity To Ship Packages Within D Days
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/capacity-to-ship-packages-within-d-days) → [**Solution**](../Problem/Medium/27_Capacity_to_Ship_Packages_Within_D_Days.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) → [**Solution**](../../Leetcode/Medium/1011_Capacity_To_Ship_Packages_Within_D_Days.py)  
