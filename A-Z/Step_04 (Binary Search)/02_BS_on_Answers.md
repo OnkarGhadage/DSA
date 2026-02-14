@@ -27,3 +27,8 @@
 ### ⭐ 5. Find the smallest divisor | 1283. Find the Smallest Divisor Given a Threshold
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-smallest-divisor) → [**Solution**](../Problem/Medium/26_Find_the_smallest_divisor.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) → [**Solution**](../../Leetcode/Medium/1283_Find_the_Smallest_Divisor_Given_a_Threshold.py)  
+
+---
+
+### ⭐ 6. Capacity to Ship Packages Within D Days
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/capacity-to-ship-packages-within-d-days) → [**Solution**](../Problem/Medium/27_Capacity_to_Ship_Packages_Within_D_Days.py)  
