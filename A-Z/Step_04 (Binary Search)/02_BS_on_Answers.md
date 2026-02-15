@@ -36,5 +36,6 @@
 
 ---
 
-### ⭐ 7. Kth Missing Positive Number
+### ⭐ 7. Kth Missing Positive Number | 
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/kth-missing-positive-number) → [**Solution**](../Problem/Easy/36_Kth_Missing_Positive_Number.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/kth-missing-positive-number/) → [**Solution**](../../Leetcode/Easy/1539_Kth_Missing_Positive_Number.py)  
