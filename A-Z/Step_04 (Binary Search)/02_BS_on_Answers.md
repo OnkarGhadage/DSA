@@ -44,3 +44,8 @@
 
 ### ⭐ 8. Aggressive Cows
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/aggressive-cows) → [**Solution**](../Problem/Hard/08_Aggressive_Cows.py)  
+
+---
+
+### ⭐ 9. Book Allocation Problem
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/book-allocation-problem) → [**Solution**](../Problem/Hard/09_Book_Allocation_Problem.py)  
