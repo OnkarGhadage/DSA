@@ -49,3 +49,8 @@
 
 ### ⭐ 9. Book Allocation Problem
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/book-allocation-problem) → [**Solution**](../Problem/Hard/09_Book_Allocation_Problem.py)  
+
+---
+
+### ⭐ 10. Split array - largest sum
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/split-array---largest-sum) → [**Solution**](../Problem/Hard/10_Split_array__largest_sum.py)  
