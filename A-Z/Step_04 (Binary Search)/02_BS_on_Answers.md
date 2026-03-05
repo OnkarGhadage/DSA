@@ -55,3 +55,8 @@
 ### ⭐ 10. Split array - largest sum | 410. Split Array Largest Sum
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/split-array---largest-sum) → [**Solution**](../Problem/Hard/10_Split_array__largest_sum.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/split-array-largest-sum/) → [**Solution**](../../Leetcode/Hard/410_Split_Array_Largest_Sum.py)  
+
+---
+
+### ⭐ 11. Painter's Partition
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/painters-partition?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/28_Painters_Partition.py)  
