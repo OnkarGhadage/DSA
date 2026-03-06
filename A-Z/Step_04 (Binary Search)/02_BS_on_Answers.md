@@ -60,3 +60,8 @@
 
 ### ⭐ 11. Painter's Partition
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/painters-partition?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/28_Painters_Partition.py)  
+
+---
+
+### ⭐ 12. Median of 2 sorted arrays
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/median-of-2-sorted-arrays?source=strivers-a2z-dsa-track) → [**Solution**]()  
