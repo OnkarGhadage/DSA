@@ -63,5 +63,6 @@
 
 ---
 
-### ⭐ 12. Median of 2 sorted arrays
+### ⭐ 12. Median of 2 sorted arrays | 4. Median of Two Sorted Arrays
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/median-of-2-sorted-arrays?source=strivers-a2z-dsa-track) → [**Solution**]()  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/median-of-two-sorted-arrays/) → [**Solution**](../../Leetcode/Hard/4_Median_of_Two_Sorted_Arrays.py)  
