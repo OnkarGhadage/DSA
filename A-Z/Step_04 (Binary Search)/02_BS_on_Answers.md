@@ -68,5 +68,10 @@
 ---
 
 ### ⭐ 13. Median of 2 sorted arrays | 4. Median of Two Sorted Arrays
-📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/median-of-2-sorted-arrays?source=strivers-a2z-dsa-track) → [**Solution**]()  
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/median-of-2-sorted-arrays?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Hard/11_Median_of_2_sorted_arrays.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/median-of-two-sorted-arrays/) → [**Solution**](../../Leetcode/Hard/4_Median_of_Two_Sorted_Arrays.py)  
+
+---
+
+### ⭐ 14. Kth element of 2 sorted arrays
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/29_Kth_element_of_2_sorted_arrays.py)  
