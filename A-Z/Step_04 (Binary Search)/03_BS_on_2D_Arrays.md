@@ -7,5 +7,6 @@
 
 ---
 
-### ⭐ 2. Search in a 2D matrix
+### ⭐ 2. Search in a 2D matrix | 74. Search a 2D Matrix
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/search-in-a-2d-matrix) → [**Solution**](../Problem/Hard/12_Search_in_a_2D_matrix.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/search-a-2d-matrix/) → [**Solution**](../../Leetcode/Medium/74_Search_a_2D_Matrix.py)  
