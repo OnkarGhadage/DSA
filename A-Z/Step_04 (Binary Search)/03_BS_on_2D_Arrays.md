@@ -22,3 +22,8 @@
 ### ⭐ 4. Find Peak Element - II | 1901. Find a Peak Element II
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-peak-element-ii?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/30_Find_Peak_Element_II.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/find-a-peak-element-ii/) → [**Solution**](../../Leetcode/Medium/1901_Find_a_Peak_Element_II.py)  
+
+---
+
+### ⭐ 5. Matrix Median
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/matrix-median?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Hard/14_Matrix_Median.py)  
