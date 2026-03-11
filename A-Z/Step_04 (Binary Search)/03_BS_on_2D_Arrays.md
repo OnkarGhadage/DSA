@@ -16,3 +16,8 @@
 ### ⭐ 3. Search in 2D matrix - II | 240. Search a 2D Matrix II
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/search-in-2d-matrix-ii?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Hard/13_Search_in_2D_matrix_II.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/search-a-2d-matrix-ii/) → [**Solution**](../../Leetcode/Medium/240_Search_a_2D_Matrix_II.py)  
+
+---
+
+### ⭐ 4. Find Peak Element - II
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-peak-element-ii?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/30_Find_Peak_Element_II.py)  
