@@ -15,5 +15,6 @@
 
 ---
 
-### ⭐ 3. Largest Odd Number in a String
+### ⭐ 3. Largest Odd Number in a String | 1903. Largest Odd Number in String
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/largest-odd-number-in-a-string?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Easy/38_Largest_Odd_Number_in_a_String.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/largest-odd-number-in-string/) → [**Solution**](../../Leetcode/Easy/1903_Largest_Odd_Number_in_String.py)  
