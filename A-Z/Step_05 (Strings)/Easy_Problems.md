@@ -9,5 +9,6 @@
 
 ---
 
-### ⭐ 2. Reverse every word in a string
+### ⭐ 2. Reverse every word in a string | 151. Reverse Words in a String
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/32_Reverse_every_word_in_a_string.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/reverse-words-in-a-string/) → [**Solution**](../../Leetcode/Medium/151_Reverse_Words_in_a_String.py)  
