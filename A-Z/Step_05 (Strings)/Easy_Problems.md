@@ -30,3 +30,9 @@
 ### ⭐ 5. Isomorphic String | 205. Isomorphic Strings
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/isomorphic-string?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Easy/40_Isomorphic_String.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/isomorphic-strings/) → [**Solution**](../../Leetcode/Easy/205_Isomorphic_Strings.py)  
+
+---
+
+### ⭐ 6. Rotate String | 796. Rotate String
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/rotate-string?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Easy/41_Rotate_String.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/rotate-string/) → [**Solution**](../../Leetcode/Easy/796_Rotate_String.py)  
