@@ -36,3 +36,8 @@
 ### ⭐ 6. Rotate String | 796. Rotate String
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/rotate-string?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Easy/41_Rotate_String.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/rotate-string/) → [**Solution**](../../Leetcode/Easy/796_Rotate_String.py)  
+---
+
+### ⭐ 7. Valid Anagram | 242. Valid Anagram
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/valid-anagram?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Easy/42_Valid_Anagram.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/valid-anagram/) → [**Solution**](../../Leetcode/Easy/242_Valid_Anagram.py)  
