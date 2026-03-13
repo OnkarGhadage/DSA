@@ -24,3 +24,9 @@
 ### ⭐ 4. Longest Common Prefix | 14. Longest Common Prefix
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/longest-common-prefix?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Easy/39_Longest_Common_Prefix.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/longest-common-prefix/) → [**Solution**](../../Leetcode/Easy/14_Longest_Common_Prefix.py)  
+
+---
+
+### ⭐ 5. Isomorphic String | 205. Isomorphic Strings
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/isomorphic-string?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Easy/40_Isomorphic_String.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/isomorphic-strings/) → [**Solution**](../../Leetcode/Easy/205_Isomorphic_Strings.py)  
