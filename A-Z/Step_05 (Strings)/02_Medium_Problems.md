@@ -18,3 +18,9 @@
 ### ⭐ 3. Roman to Integer | 13. Roman to Integer
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/roman-to-integer?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/34_Roman_to_Integer.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/roman-to-integer/) → [**Solution**](../../Leetcode/Easy/13_Roman_to_Integer.py)  
+
+---
+
+### ⭐ 4. String to Integer (atoi) | 8. String to Integer (atoi)
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/string-to-integer-atoi?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/35_String_to_Integer_(atoi).py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/string-to-integer-atoi/) → [**Solution**](../../Leetcode/Medium/8_String_to_Integer_(atoi).py)  
