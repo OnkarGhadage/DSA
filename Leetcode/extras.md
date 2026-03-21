@@ -12,3 +12,8 @@
 
 ### ⭐ 67. Add Binary 
 [Problem statement](https://leetcode.com/problems/add-binary/) → [**Solution**](Easy/67_Add_Binary.py)  
+
+---
+
+### ⭐ 203. Remove Linked List Elements
+[Problem statement](https://leetcode.com/problems/remove-linked-list-elements/) → [**Solution**](Easy/203_Remove_Linked_List_Elements.py)  
