@@ -21,3 +21,9 @@
 ### ⭐ 4. Detect a loop in LL | 141. Linked List Cycle
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/detect-a-loop-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/39_Detect_a_loop_in_LL.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/linked-list-cycle/) → [**Solution**](../../Leetcode/Easy/141_Linked_List_Cycle.py)  
+
+---
+
+### ⭐ 5. Find the starting point in LL | 142. Linked List Cycle II
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/40_Find_the_starting_point_in_LL.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/linked-list-cycle-ii/) → [**Solution**](../../Leetcode/Medium/142_Linked_List_Cycle_II.py)  
