@@ -9,3 +9,15 @@
 ### ⭐ 2. Reverse a LL | 206. Reverse Linked List
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/reverse-a-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/38_Reverse_a_LL.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/reverse-linked-list/) → [**Solution**](../../Leetcode/Easy/206_Reverse_Linked_List.py)  
+
+---
+
+### ⭐ 3. Reverse a LL | 206. Reverse Linked List
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/reverse-a-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/38_Reverse_a_LL.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/reverse-linked-list/) → [**Solution**](../../Leetcode/Easy/206_Reverse_Linked_List.py)  
+
+---
+
+### ⭐ 4. Detect a loop in LL | 141. Linked List Cycle
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/detect-a-loop-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/39_Detect_a_loop_in_LL.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/linked-list-cycle/) → [**Solution**](../../Leetcode/Easy/141_Linked_List_Cycle.py)  
