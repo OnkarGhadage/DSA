@@ -27,3 +27,8 @@
 ### ⭐ 5. Find the starting point in LL | 142. Linked List Cycle II
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/40_Find_the_starting_point_in_LL.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/linked-list-cycle-ii/) → [**Solution**](../../Leetcode/Medium/142_Linked_List_Cycle_II.py)  
+
+---
+
+### ⭐ 6. Length of loop in LL
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/length-of-loop-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/41_Length_of_loop_in_LL.py)  
