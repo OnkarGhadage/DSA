@@ -38,3 +38,9 @@
 ### ⭐ 7. Check if LL is palindrome or not | 234. Palindrome Linked List
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/check-if-ll-is-palindrome-or-not?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/42_Check_if_LL_is_palindrome_or_not.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/palindrome-linked-list/) → [**Solution**](../../Leetcode/Easy/234_Palindrome_Linked_List.py)  
+
+---
+
+### ⭐ 8. Segregate odd and even nodes in Linked List | 328. Odd Even Linked List
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/segregate-odd-and-even-nodes-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/43_Segregate_odd_and_even_nodes_in_Linked_List.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/odd-even-linked-list/) → [**Solution**](../../Leetcode/Medium/328_Odd_Even_Linked_List.py)  
