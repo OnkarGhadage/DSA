@@ -44,3 +44,9 @@
 ### ⭐ 8. Segregate odd and even nodes in Linked List | 328. Odd Even Linked List
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/segregate-odd-and-even-nodes-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/43_Segregate_odd_and_even_nodes_in_Linked_List.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/odd-even-linked-list/) → [**Solution**](../../Leetcode/Medium/328_Odd_Even_Linked_List.py)  
+
+---
+
+### ⭐ 9. Remove Nth node from the back of the LL | 19. Remove Nth Node From End of List
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/remove-nth-node-from-the-back-of-the-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/44_Remove_Nth_node_from_the_back_of_the_LL.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) → [**Solution**](../../Leetcode/Medium/19_Remove_Nth_Node_From_End_of_List.py)  
