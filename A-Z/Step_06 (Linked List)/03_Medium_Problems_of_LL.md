@@ -50,3 +50,9 @@
 ### ⭐ 9. Remove Nth node from the back of the LL | 19. Remove Nth Node From End of List
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/remove-nth-node-from-the-back-of-the-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/44_Remove_Nth_node_from_the_back_of_the_LL.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) → [**Solution**](../../Leetcode/Medium/19_Remove_Nth_Node_From_End_of_List.py)  
+
+---
+
+### ⭐ 10. Delete the middle node in LL | 2095. Delete the Middle Node of a Linked List
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/45_Delete_the_middle_node_in_LL.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) → [**Solution**](../../Leetcode/Medium/2095_Delete_the_Middle_Node_of_a_Linked_List.py)  
