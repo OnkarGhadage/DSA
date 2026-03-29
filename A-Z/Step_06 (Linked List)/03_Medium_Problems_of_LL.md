@@ -56,3 +56,9 @@
 ### ⭐ 10. Delete the middle node in LL | 2095. Delete the Middle Node of a Linked List
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/45_Delete_the_middle_node_in_LL.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) → [**Solution**](../../Leetcode/Medium/2095_Delete_the_Middle_Node_of_a_Linked_List.py)  
+
+---
+
+### ⭐ 11. Sort LL | 148. Sort List
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/sort-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Hard/15_Sort_LL.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/sort-list/) → [**Solution**](../../Leetcode/Medium/148_Sort_List.py)  
