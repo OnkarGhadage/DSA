@@ -73,3 +73,8 @@
 ### ⭐ 13. Find the intersection point of Y LL | 160. Intersection of Two Linked Lists
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-intersection-point-of-y-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/47_Find_the_intersection_point_of_Y_LL.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/intersection-of-two-linked-lists/) → [**Solution**](../../Leetcode/Easy/160_Intersection_of_Two_Linked_Lists.py)  
+
+---
+
+### ⭐ 14. Add one to a number represented by LL
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/add-one-to-a-number-represented-by-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/48_Add_one_to_a_number_represented_by_LL.py)  
