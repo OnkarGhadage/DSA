@@ -78,3 +78,9 @@
 
 ### ⭐ 14. Add one to a number represented by LL
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/add-one-to-a-number-represented-by-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/48_Add_one_to_a_number_represented_by_LL.py)  
+
+---
+
+### ⭐ 15. Add two numbers in Linked List | 2. Add Two Numbers
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/add-two-numbers-in-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/49_Add_two_numbers_in_Linked_List.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/add-two-numbers/) → [**Solution**](../../Leetcode/Easy/2_Add_Two_Numbers.py)  
