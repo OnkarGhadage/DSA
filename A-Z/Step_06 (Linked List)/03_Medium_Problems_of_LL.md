@@ -62,9 +62,14 @@
 ### ⭐ 11. Sort LL | 148. Sort List
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/sort-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Hard/15_Sort_LL.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/sort-list/) → [**Solution**](../../Leetcode/Medium/148_Sort_List.py)  
-📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) → [**Solution**](../../Leetcode/Medium/2095_Delete_the_Middle_Node_of_a_Linked_List.py)  
 
 ---
 
 ### ⭐ 12. Sort a Linked List of 0's 1's and 2's
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/sort-a-ll-of-0's-1's-and-2's?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/46_Sort_a_Linked_List_of_0s_1s_and_2s.py)  
+
+---
+
+### ⭐ 13. Find the intersection point of Y LL | 160. Intersection of Two Linked Lists
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/find-the-intersection-point-of-y-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/47_Find_the_intersection_point_of_Y_LL.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/intersection-of-two-linked-lists/) → [**Solution**](../../Leetcode/Easy/160_Intersection_of_Two_Linked_Lists.py)  
