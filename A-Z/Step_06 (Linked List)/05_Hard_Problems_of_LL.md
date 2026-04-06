@@ -9,3 +9,9 @@
 ### ⭐ 2. Rotate a LL | 61. Rotate List
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/rotate-a-ll?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Hard/19_Rotate_a_LL.py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/rotate-list/) → [**Solution**](../../Leetcode/Medium/61_Rotate_List.py)  
+
+---
+
+### ⭐ 4. Clone a LL with random and next pointer | 138. Copy List with Random Pointer
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/clone-a-ll-with-random-and-next-pointer?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Hard/20_Clone_a_LL_with_random_and_next_pointer.py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/copy-list-with-random-pointer/) → [**Solution**](../../Leetcode/Medium/138_Copy_List_with_Random_Pointer.py)  
