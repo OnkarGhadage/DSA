@@ -3,3 +3,9 @@
 ### ⭐ 1. String to Integer (atoi) | 8. String to Integer (atoi)
 📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/string-to-integer-atoi?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Medium/35_String_to_Integer_(atoi).py)  
 📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/string-to-integer-atoi/) → [**Solution**](../../Leetcode/Medium/8_String_to_Integer_(atoi).py)  
+
+---
+
+### ⭐ 2. Pow(x,n) | 50. Pow(x, n)
+📘 **TUF** - [Problem statement](https://takeuforward.org/plus/dsa/problems/pow(x,n)?source=strivers-a2z-dsa-track) → [**Solution**](../Problem/Easy/50_Pow(x,n).py)  
+📙 **Leetcode** - [Problem statement](https://leetcode.com/problems/powx-n/) → [**Solution**](../../Leetcode/Medium/50_Pow(x,n).py)  
