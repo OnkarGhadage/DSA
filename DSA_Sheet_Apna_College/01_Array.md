@@ -11,6 +11,8 @@ This file documents my progress through the Apna College DSA sheet and my tracke
 | 01 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [Python 🐍](../Leetcode/Easy/0001-two-sum.py) |
 | 02 | [2965. Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | [Python 🐍](../Leetcode/Easy/2965_Find_Missing_and_Repeated_Values.py) |
 | 03 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [Python 🐍](../Leetcode/Easy/88_Merge_Sorted_Array.py) |
+| 04 | [136. Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | [Python 🐍](../Leetcode/Easy/136_Single_Number.py) |
+| 05 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python 🐍](../Leetcode/Easy/121_Best_Time_to_Buy_and_Sell_Stock.py) |
 
 ---
 
@@ -48,3 +50,21 @@ return both numbers in one list.
     * which pointers element is greater in between m and n are assigned to last pointers element.
     * After while ends add one more while at the end we can have some elements remaining in the nums2 list. In reverse order add all remaining elements one by one in nums1 cause we have to do inplace sorting.
 * **Complexity:** Time: $O(m + n)$ | Space: $O(1)$
+
+### 4. 136. Single Number 🟢
+* **LeetCode Link:** [136. Single Number](https://leetcode.com/problems/single-number/)
+* **Code:** [136_Single_Number.py](../Leetcode/Easy/136_Single_Number.py)
+* **Approach:**  
+    * XOR all the elements of the list we get single number at the end.
+    * XOR canlc eouts similar elements so at the end we get the single element.
+* **Complexity:** Time: $O(n)$ | Space: $O(1)$
+
+### 5. 121. Best Time to Buy and Sell Stock 🟢
+* **LeetCode Link:** [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* **Code:** [121_Best_Time_to_Buy_and_Sell_Stock.py](../Leetcode/Easy/121_Best_Time_to_Buy_and_Sell_Stock.py)
+* **Approach:**  
+    * We have to calculate the maximum possible profit.
+    * We initialize the buy_price=list[0] and profit=0 variables.
+    * Then iterate through list. We store minimum value between buy_price and i in buy_price cause we want minimum buy price to get maximum profit.
+    * Then we calculate the profit on new buy price `profit = max(profit, i - buy_price)` so in the same iteration it will remain 0 cause if the but price is also i then profit will be 0 but in future iteration if buy_price remains the same then it calculates the profit and stores in the profit only if it is higher than previous.
+* **Complexity:** Time: $O(n)$ | Space: $O(1)$
