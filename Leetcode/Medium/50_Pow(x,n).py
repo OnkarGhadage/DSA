@@ -5,8 +5,7 @@ class Solution:
             if n == 0: return 1
 
             res = helper(x, n // 2)
-            res = res * res
-            return x * res if n % 2 else res
+            return res * res * x if n%2 else res * res
         
-        res = helper(x, abs(n))
-        return res if n > 0 else 1 / res
+        result = helper(x, abs(n))
+        return result if n>=0 else 1/result
