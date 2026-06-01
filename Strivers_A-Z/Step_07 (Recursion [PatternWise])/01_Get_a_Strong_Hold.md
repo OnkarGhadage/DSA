@@ -18,3 +18,15 @@
     * res = helper(x, n//2) **Recursion**
     * return res* res* x if n%2 else res*res
 * **Complexity:** Time: $O(log n)$ | Space: $O(log n)$
+
+### 3. 1922. Count Good Numbers 🟠
+* **LeetCode Link:** [1922. Count Good Numbers](https://leetcode.com/problems/powx-n/)
+* **Code:** [1922_Count_Good_Numbers.py](../../Leetcode/Medium/1922_Count_Good_Numbers.py)
+* **Approach:** 
+    * MOD = 10**9 + 7
+    * Used problem 50 helper function to find power just use MOD to avoid overflow
+    * calculate number of even and odd places.
+    * `even = ceil(n/2)`
+    * `odd = n//2`
+    * just return (helper(5, even)) * (helper(4, odd)) % MOD
+* **Complexity:** Time: $O(log n)$ | Space: $O(log n)$
