@@ -20,7 +20,7 @@
 * **Complexity:** Time: $O(log n)$ | Space: $O(log n)$
 
 ### 3. 1922. Count Good Numbers 🟠
-* **LeetCode Link:** [1922. Count Good Numbers](https://leetcode.com/problems/powx-n/)
+* **LeetCode Link:** [1922. Count Good Numbers](https://leetcode.com/problems/count-good-numbers/)
 * **Code:** [1922_Count_Good_Numbers.py](../../Leetcode/Medium/1922_Count_Good_Numbers.py)
 * **Approach:** 
     * MOD = 10**9 + 7
@@ -30,3 +30,8 @@
     * `odd = n//2`
     * just return (helper(5, even)) * (helper(4, odd)) % MOD
 * **Complexity:** Time: $O(log n)$ | Space: $O(log n)$
+
+### 3. Sort a Stack 🟠
+* **LeetCode Link:** [Sort a Stack](https://takeuforward.org/plus/dsa/problems/sort-a-stack?source=strivers-a2z-dsa-track)
+* **Code:** [51_Sort_a_Stack.py](../Problem/Medium/51_Sort_a_Stack.py)
+* **Complexity:** Time: $O(n^2)$ | Space: $O(n)$
