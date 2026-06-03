@@ -32,6 +32,11 @@
 * **Complexity:** Time: $O(log n)$ | Space: $O(log n)$
 
 ### 3. Sort a Stack 🟠
-* **LeetCode Link:** [Sort a Stack](https://takeuforward.org/plus/dsa/problems/sort-a-stack?source=strivers-a2z-dsa-track)
+* **Problem Link:** [Sort a Stack](https://takeuforward.org/plus/dsa/problems/sort-a-stack?source=strivers-a2z-dsa-track)
 * **Code:** [51_Sort_a_Stack.py](../Problem/Medium/51_Sort_a_Stack.py)
+* **Complexity:** Time: $O(n^2)$ | Space: $O(n)$
+
+### 4. Reverse a Stack 🟠
+* **Problem Link:** [Reverse a Stack](https://takeuforward.org/plus/dsa/problems/reverse-a-stack?source=strivers-a2z-dsa-track)
+* **Code:** [52_Reverse_a_Stack.py](../Problem/Medium/51_Sort_a_Stack.py)
 * **Complexity:** Time: $O(n^2)$ | Space: $O(n)$
